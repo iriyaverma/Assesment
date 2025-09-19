@@ -2,7 +2,7 @@
 
 ## 📋 Assignment Overview
 
-This repository contains my submission for the backend developer assignment, featuring 4 solved mathematical problems using the provided HTML templates.
+This repository contains my submission for the backend developer assignment, featuring 2 solved mathematical problems using the provided HTML templates.
 
   ## 📝 Outputs
 
